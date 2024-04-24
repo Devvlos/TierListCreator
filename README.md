@@ -1,9 +1,9 @@
 <h1 align="center">TierMaker</h1>
-<h3 align="center">This Is Tribute To Thala As All The Things Happens For A Reason And You Know The Reason THALA. So This WebApp Will Calculate And Will Help You Do Thala For A Reason🗿</h3>
+<h3 align="center">This is an open source project that serves as a free alternative to the Popular Tier-Maker Website But Free, Easier And Simple With No Ads And Promise Aditionals Features With More Faster Response Time</h3>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/TierMaker)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://devvlos.github.io/TierMaker/)
-[![Author](https://img.shields.io/badge/Author-Adhish%20Gupta-blue.svg)](https://www.youtube.com/channel/UCiL037nbqWL9Fib03HxZAmQ)
+[![Author](https://img.shields.io/badge/Author-Adhish%20Gupta-blue.svg)](https://twitter.com/Devlos__)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-24%24April%202024-yellow.svg)](https://github.com/Devvlos/TierMaker)
 
 <p align="center">
@@ -48,4 +48,4 @@ git clone https://github.com/Devvlos/TierMaker.git
 
 Once your pull request has been merged, you can delete your branch.
 
-Made By Devlos :wave: [Contact](https://www.youtube.com/channel/UCiL037nbqWL9Fib03HxZAmQ)
+Made By Devlos :wave: [Contact](https://twitter.com/Devlos__)
