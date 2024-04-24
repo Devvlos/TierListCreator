@@ -20,8 +20,6 @@
 
 https://github.com/Devvlos/TierListCreator/assets/146619192/870dad53-7562-4a9b-a096-1515fc11d0de
 
-> > > > > > > da6c2f91e53ef1f7a790e6dd62174d2496575252
-
 <p>Here is The Downloaded Image👇</p>
 <img alt="screenshot" src="assets/Demo.png">
 
