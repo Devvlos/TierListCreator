@@ -1,10 +1,10 @@
-<h1 align="center">TierMaker</h1>
+<h1 align="center">TierListCreator</h1>
 <h3 align="center">This is an open source project that serves as a free alternative to the Popular Tier-Maker Website But Free, Easier And Simple With No Ads And Promise Aditionals Features With More Faster Response Time</h3>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/TierMaker)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/TierListCreator)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://https://tierlistcreator.netlify.app/)
 [![Author](https://img.shields.io/badge/Author-Adhish%20Gupta-blue.svg)](https://twitter.com/Devlos__)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-24%20Aprilr%202024-yellow.svg)](https://github.com/Devvlos/TierMaker)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-24%20Aprilr%202024-yellow.svg)](https://github.com/Devvlos/TierListCreator)
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -34,10 +34,10 @@ This is an open source project that serves as a free alternative to the Popular 
 ## 🚀 Getting started
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
-[Download the ZIP from this location](https://github.com/Devvlos/TierMaker/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/Devvlos/TierListCreator/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/Devvlos/TierMaker.git
+git clone https://github.com/Devvlos/TierListCreator.git
 ```
 
 - Once the files are on your machine, open the _linktree_ folder in [Visual Studio Code](https://code.visualstudio.com/).
