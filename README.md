@@ -2,9 +2,9 @@
 <h3 align="center">This is an open source project that serves as a free alternative to the Popular Tier-Maker Website But Free, Easier And Simple With No Ads And Promise Aditionals Features With More Faster Response Time</h3>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/TierMaker)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://devvlos.github.io/TierMaker/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://https://tierlistcreator.netlify.app/)
 [![Author](https://img.shields.io/badge/Author-Adhish%20Gupta-blue.svg)](https://twitter.com/Devlos__)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-24%April%202024-yellow.svg)](https://github.com/Devvlos/TierMaker)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-24%24%April%202024-yellow.svg)](https://github.com/Devvlos/TierMaker)
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -25,7 +25,7 @@
 
 This is an open source project that serves as a free alternative to the Popular Tier-Maker Website But Free, Easier And Simple With No Ads
 
-- [Demo](https://devvlos.github.io/TierMaker/)
+- [Demo](https://https://tierlistcreator.netlify.app/)
 
 ## 🚀 Getting started
 
