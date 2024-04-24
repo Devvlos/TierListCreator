@@ -4,7 +4,7 @@
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/TierMaker)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://devvlos.github.io/TierMaker/)
 [![Author](https://img.shields.io/badge/Author-Adhish%20Gupta-blue.svg)](https://twitter.com/Devlos__)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-24%24April%202024-yellow.svg)](https://github.com/Devvlos/TierMaker)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-24%April%202024-yellow.svg)](https://github.com/Devvlos/TierMaker)
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
