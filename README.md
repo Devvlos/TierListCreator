@@ -15,8 +15,6 @@
 ---
 
 <p align="center">
-<<<<<<< HEAD
-=======
 
 https://github.com/Devvlos/TierListCreator/assets/146619192/870dad53-7562-4a9b-a096-1515fc11d0de
 
